@@ -8,7 +8,8 @@
 
 ## Walking through the application (Reconnaissance)
 The website "OWASP Juice Shop" seems to be a shopping site. From the home page I can see that you can purchase things from fruits to artwork. The website is very simple and easy to navigate. 
-![des](Attack/Screenshots/OWJ1.png)
+
+![des](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/Screenshots/OWJ1.png)
 
 
  
