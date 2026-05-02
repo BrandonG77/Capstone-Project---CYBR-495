@@ -80,7 +80,9 @@ index=vulnversity_logs ip_src="[target_ip]" ip_dst="[attacker_ip]" tcp_srcport="
 - **Block outbound connections from web servers by default** — only allow specific approved destinations
 - **Audit SUID binaries regularly** — tools like `systemctl` should never have elevated permissions on a production server
 - **Run a weekly scan for unexpected SUID files** on all Linux servers
-
+- ** Adopt a Zero Trust approach — do not assume traffic inside your network is safe. 
+Verify everything, assume breach, and never give a web server more outbound access 
+than it absolutely needs.
 ---
 
 ## Key Takeaway
