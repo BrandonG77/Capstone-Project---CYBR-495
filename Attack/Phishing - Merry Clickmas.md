@@ -67,4 +67,11 @@ From the above screenshot you can also see the phishing email I sent to the user
 **Attack End time:** 11:53pm 
 <br>**Attack End Date:** 3/30/2026 
 
-
+## Threat Intel (MITRE Mapping)
+| Tactic | Technique ID | Technique Name |
+|--------|-------------|----------------|
+| Initial Access | T1566.002 | Phishing: Spearphishing Link |
+| Resource Development | T1583.001 | Acquire Infrastructure: Server |
+| Credential Access | T1056.003 | Input Capture: Web Portal Capture |
+| Collection | T1213 | Data from Information Repositories |
+| Defense Evasion | T1036.005 | Masquerade: Match Legitimate Name or Location |
