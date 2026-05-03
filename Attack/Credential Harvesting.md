@@ -62,7 +62,16 @@ With drgonzo's plaintext credentials recovered, I verified that this account hel
 I can use the hash to authenticate directly in to the domain control system and I can even navigate through the system to search for files.
 ![des](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/Screenshots/CH1.png)
 
-
+## Threat Intel (MITRE Mapping)
+| Tactic | Technique ID | Technique Name |
+|--------|-------------|----------------|
+| Credential Access | T1555.004 | Credentials from Password Stores: Windows Credential Manager |
+| Credential Access | T1003.002 | OS Credential Dumping: SAM |
+| Credential Access | T1003.004 | OS Credential Dumping: LSA Secrets |
+| Credential Access | T1003.003 | OS Credential Dumping: NTDS |
+| Credential Access | T1110.002 | Brute Force: Password Spraying |
+| Collection | T1005 | Data from Local System |
+| Privilege Escalation | T1078.002 | Valid Accounts: Domain Accounts |
 
 
 
