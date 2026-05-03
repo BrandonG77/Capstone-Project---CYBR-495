@@ -34,7 +34,12 @@ I then ran the command [ john –wordlist=/usr/share/wordlists/rockyou.txt zipha
 ![des](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/Screenshots/pass1.png)
 
 ## Threat Intel (MITRE Mapping)
-
+| Tactic | Technique ID | Technique Name |
+|--------|-------------|----------------|
+| Impact | T1486 | Data Encrypted for Impact |
+| Credential Access | T1110.002 | Brute Force: Password Cracking |
+| Credential Access | T1110.002 | Brute Force: Password Cracking |
+| Collection | T1005 | Data from Local System |
 
 
 
