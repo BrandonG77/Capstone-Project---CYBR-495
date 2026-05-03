@@ -100,6 +100,15 @@ To install the skeleton key, I use the command misc::skeleton
 With that my default credentials will be mimikatz and by using commands like : net use c:\\DOMAIN-CONTROLLER\admin$ /user:Administrator mimikatz  the share will now be accessible without the need for an admin password. Or the command: dir \\Desktop-1\c$ /user:Machine1 mimikatz  I can access another desktop without knowing the user who has accessed desktop 1 
 
 ## THREAT INTEL (MITRE MAPPING)
-
+| Tactic | Technique ID | Technique Name |
+|--------|-------------|----------------|
+| Reconnaissance | T1589.001 | Gather Victim Identity Information: Credentials |
+| Credential Access | T1558.003 | Steal or Forge Kerberos Tickets: Kerberoasting |
+| Credential Access | T1558.004 | Steal or Forge Kerberos Tickets: AS-REP Roasting |
+| Credential Access | T1558.001 | Steal or Forge Kerberos Tickets: Golden Ticket |
+| Credential Access | T1558.002 | Steal or Forge Kerberos Tickets: Silver Ticket |
+| Lateral Movement | T1550.003 | Use Alternate Authentication Material: Pass the Ticket |
+| Lateral Movement | T1021.002 | Remote Services: SMB/Windows Admin Shares |
+| Persistence | T1556 | Modify Authentication Process |
 
 
