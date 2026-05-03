@@ -55,13 +55,13 @@ Using the GTFOBins technique for systemctl SUID abuse, I created a malicious ser
 ![des](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/Screenshots/VUL13.png)
 
 ## Threat Intel (MITRE Mapping)
-| Tactic | Technique ID | Technique Name | How It Was Used |
-|--------|-------------|----------------|-----------------|
-| Reconnaissance | T1595 | Active Scanning | Used Nmap with -sV and -p-400 flags to scan the target for open ports and running service versions |
-| Discovery | T1083 | File and Directory Discovery | Used Gobuster to enumerate directories on the web server and identified /internal/ as the upload endpoint |
-| Initial Access | T1190 | Exploit Public-Facing Application | Exploited the unrestricted file upload form at /internal/ to upload a PHP reverse shell |
-| Defense Evasion | T1036.008 | Masquerade File Type | Fuzzed the upload form using Burp Suite Intruder to identify that .phtml bypassed the extension filter, then used it for the reverse shell |
-| Execution | T1059.004 | Command and Scripting Interpreter: Unix Shell | Uploaded a .phtml reverse shell from PentestMonkey, set attacker IP and port, and triggered it to get a shell as www-data |
-| Command and Control | T1095 | Non-Application Layer Protocol | Caught the reverse shell on a Netcat listener on port 1234 using raw TCP |
-| Privilege Escalation | T1548.001 | Abuse Elevation Control Mechanism: SUID/SGID | Used find to identify /bin/systemctl with SUID bit set, then created a malicious service file using the GTFOBins technique to copy the root flag to a readable location |
-| Collection | T1005 | Data from Local System | Read the root flag from /root/root.txt by executing it through the malicious systemctl service |
+| Tactic | Technique ID | Technique Name |
+|--------|-------------|----------------|
+| Reconnaissance | T1595 | Active Scanning |
+| Discovery | T1083 | File and Directory Discovery |
+| Initial Access | T1190 | Exploit Public-Facing Application |
+| Defense Evasion | T1036.008 | Masquerade File Type |
+| Execution | T1059.004 | Command and Scripting Interpreter: Unix Shell |
+| Command and Control | T1095 | Non-Application Layer Protocol |
+| Privilege Escalation | T1548.001 | Abuse Elevation Control Mechanism: SUID/SGID |
+| Collection | T1005 | Data from Local System |
