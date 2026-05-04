@@ -1,4 +1,4 @@
-# 07 - Vulnerversity
+# 07 - Vulnversity
 
 ---
 
