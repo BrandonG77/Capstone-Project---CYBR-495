@@ -1,4 +1,4 @@
-# 04 - XSS Attack
+# 04 - XSS Attack (Cross-Site Scripting)
 
 ---
 
