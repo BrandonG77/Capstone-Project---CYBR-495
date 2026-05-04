@@ -31,7 +31,7 @@ Each incident response follows the same procedures:
 - **Detection Alert** — how each incident is detected and common steps to respond to each one
 - **Incident Ticket** — a mock incident ticket for tracking critical information for each case
 - **Investigation** — parts of a company or system an attacker can use to carry out the attack
-- **Stakeholder Communication** — internal and external communication templates used to inform stakeholders of the situation
+- **Stakeholder Coordination** — internal and external communication templates used to inform stakeholders of the situation
 - **Containment** — methods for mitigating the risk of the attack occurring again
 - **Post-Incident Review** — a summary of the incident's lifespan to identify areas needing improvement in future attack occurrences
 
