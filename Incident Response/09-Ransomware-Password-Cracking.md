@@ -92,6 +92,12 @@ Incident Type (Security, Reliability, Data, Performance, Third-Party, Human Erro
 
 ## Investigation
 
+...
+
+---
+
+## Stakeholder Coordination
+
 **Organization-related incident communication efforts.**
 
 **Internal Incident Alert**
@@ -181,12 +187,6 @@ We apologize for any inconvenience this may have caused. You may contact [organi
  
 
 -- [company name]
-
----
-
-## Stakeholder Coordination
-
-...
 
 ---
 
