@@ -4,41 +4,279 @@
 
 ## Detection Alert
 
-...
+Detection of an insider threat is possible on many levels. Based on the Detection Engineer's findings, attackers can attempt to access unusual numbers of internal systems, use SQL injection, brute force, and password cracking methods, modify services, create new accounts, follow strange authentication patterns, and exfiltrate data to an external storage system.
 
 ---
 
 ## Incident Ticket
 
-...
+**Incident Overview**
+
+Incident ID: ######
+
+Date/Time Detected: ------
+
+Detecting Person/System: ------ 
+
+Reporting Method: ------
+
+Incident Title/Summary: POTENTIAL ------ DETECTED (REQUIRES INVESTIGATION) 
+
+Severity Level (Low, Medium, High, Critical): ------ 
+
+Current Status (New, Investigating, Identified, Mitigating, Resolved, Monitoring): ------
+<br><br>
+ 
+
+**Incident Impact**
+
+Customer-Impacting (Y/N/Description): ------
+
+Approx. Customers Affected: ------
+
+Revenue Impact: ------
+
+Products/Services Impacted: ------
+
+Geographic Impact: ------
+
+SLA Breach Risk: ------
+<br><br>
+ 
+
+**Technical Overview**
+
+Systems/Services Affected: ------
+
+Affected Environment (Production, Staging, Development): ------ 
+
+Root Cause (if known): ------ 
+
+Triggering Event: ------ 
+<br><br>
+ 
+
+**Response Actions**
+
+Designated Incident Manager: ------
+
+Other Employees/Parties: ------
+
+Actions Taken: ------
+
+Mitigation Steps: ------
+
+Implemented Resolutions: ------
+<br><br>
+ 
+
+**Resolution Overview**
+
+Summary: ------
+
+Time to Detect (TTD): ------ 
+
+Time to Mitigate (TTM): ------ 
+
+Time to Resolve (TTR): ------ 
+
+Follow-Up/Monitoring Requirements: ------ 
+<br><br>
+ 
+
+**Incident Classification (Nature of Incident)**
+
+Incident Type (Security, Reliability, Data, Performance, Third-Party, Human Error, Other): ------
 
 ---
 
 ## Investigation
 
-...
+When investigating potential insider threats, there are some key indicators that may raise red flags. Employees may work strange hours, attempt to access data outside what they need, conduct large data transfers, install unapproved software, disable security tools, deviate monitoring tools from their usual states, and alter system logs to hide their intent.
 
 ---
 
 ## Stakeholder Coordination
 
-...
+**Organization-related incident communication efforts.**
+
+**Internal Incident Alert**
+
+Subject: INCIDENT ALERT – SEVERITY LEVEL: ------
+
+Incident Name: POTENTIAL ------ DETECTED (REQUIRES INVESTIGATION) 
+
+Status: ------
+
+Detected: ------
+
+Impact: 
+
+Responding Parties: ------
+
+Incident ID: ######
+
+Next Incident Update: ------
+<br><br>
+ 
+
+**Incident Update**
+
+Summary: ------ 
+
+Impact (customer experience, financial, reputation, other): ------
+
+Actions Taken So Far: ------
+
+ETA to Incident Resolution: ------
+
+Next Incident Update: ------
+<br><br>
+ 
+
+**Internal Incident Resolution Announcement**
+
+Subject: INCIDENT RESOLVED – SEVERITY LEVEL: ------
+
+Incident Title/Summary: POTENTIAL ------ DETECTED (REQUIRES INVESTIGATION) 
+
+Incident ID: ######
+
+Duration: ------
+
+Root Cause: ------
+
+Follow-Up: ------
+
+ 
+
+Thank you to everyone for responding to the incident.  
+<br><br>
+ 
+
+**Customer-related incident communication efforts.** 
+
+**Customer Notification of Incident Status**
+
+Investigating: We are investigating an issue affecting ... 
+<br><br>
+ 
+
+**Customer Email Notification**
+
+Subject: Service-Affecting Incident Notice
+
+Hello [name], 
+
+ 
+
+We experienced a service-related issue impacting ------ on ------.
+
+ 
+
+Duration: ------
+
+Impact: ------
+
+Resolution: Security updates were made to ------.
+
+ 
+
+We apologize for any inconvenience this may have caused. You may contact [organization contact] with any questions. 
+
+ 
+
+-- [company name]
 
 ---
 
 ## Containment
 
-...
+When mitigating the risk of an insider threat attack, it's important for an organiztion to actively search for anomolies in employee/system behaviors, collaborate with Human Resources or other employees to establish clear policies for work conduct, and inform stakeholders through training to acknowledge the importance of internal safety within the company.
 
 ---
 
 ## Post-Incident Review
 
-...
+**Summary**
 
----
+Incident Description: POTENTIAL ------ DETECTED (REQUIRES INVESTIGATION) 
 
-## Key Takeaway
+Impact Level: ------
 
-...
+Resolution Outcome: ------
+<br><br>
+ 
 
+**Incident Overview**
+
+Incident ID: ######
+
+Date/Time of Detection: ------
+
+Duration of Incident: ------
+
+Severity Level: ------
+
+Impacted Systems/Services: ------
+<br><br>
+ 
+
+**Customer/Business Impact**
+
+Customer Experience:------ 
+
+Financial Impact: ------
+
+Reputation Impact: ------
+<br><br>
+ 
+
+**Root Cause Overview**
+
+Primary Root Cause: ------
+
+Contributing Factors: ------
+
+Detection Gaps: ------
+
+Process Failures: ------
+<br><br>
+ 
+
+**Timeline**
+
+Detection: ------
+
+Investigation: ------
+
+Mitigation: ------ 
+
+Resolution: ------
+<br><br>
+ 
+
+**Successful Response Factors**
+
+Successful Tools/Processes: ------
+
+Resolution to Incident: ------
+<br><br>
+ 
+
+**Unsuccessful Response Factors**
+
+Unsuccessful Tools/Processes: ------
+
+Alternative Measures Taken: ------
+<br><br>
+
+ 
+
+**Future Prevention**
+
+Likelihood of Reoccurrence: ------
+
+Risk Response to Limit Reoccurrence: ------
+
+Future Steps Required: ------
