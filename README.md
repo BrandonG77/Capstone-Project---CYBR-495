@@ -3,8 +3,9 @@
 
 
 
+ ---
 
-## Detection Covered
+## Attacks Covered
 
 | Number | Attack | Type | Severity |
 |--------|--------|------|----------|
@@ -20,4 +21,7 @@
 | 10 | [Post Exploitation](10-Post-Exploitation.md) | Post Exploitation | Critical |
 | 11 | [Credential Harvesting](11-Credential-Harvesting.md) | Credential Access | Critical |
 | 12 | [Insider Threat](12-Insider-Threat.md) | Insider Threat | Critical |
+
+---
+
 
