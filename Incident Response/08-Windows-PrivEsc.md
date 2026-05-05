@@ -4,7 +4,17 @@
 
 ## Detection Alert
 
-...
+The Detection Engineer was able to identify a Windows privilege escalation attack based on the detection rules' findings. Based on these findings, the attack was carried out by using a reverse shell, server message block (SMB) file transfer, authentication to the SMB, using RDP to remotely connect to servers, and gradually navigating from a low-level account to one with escalated privileges.
+
+Some of the most common responses for these attacks include
+
+- Patching vulnerabilities
+- Principle of least privilege
+- Securing service/file permissions
+- Auditing service binaries
+- Managing sensitive files to prevent unauthorized privilege elevation
+
+Many, all, or none of these response methods will be implemented depending on the nature of the threat.
 
 ---
 
@@ -92,7 +102,11 @@ Incident Type (Security, Reliability, Data, Performance, Third-Party, Human Erro
 
 ## Investigation
 
-...
+When investigating these attacks, there are multiple steps to take to uncover the true response methods that need implemented.
+
+First, gather system information, user information, and network setup information. Then, check for service misconfigurations, unquoted service paths, scheduled tasks, registry autoruns, and stored credentials. Consider token manipulation, methods for exploiting drivers or the system kernel, and ways to modify services on the machine. 
+
+While each organization's filepaths differ and vulnerabilities change, there are some fundamental mitigation tactics that should be implemented to prevent attackers from taking advantage of these steps on company machines.
 
 ---
 
@@ -192,7 +206,7 @@ We apologize for any inconvenience this may have caused. You may contact [organi
 
 ## Containment
 
-...
+To contain an attack and prevent it from happening again in the future, there are several mitigation strategies to consider. Regularly updating systems, using the principle of least privilege, securing services with access control lists, disabling dangerous policies that shouldn't be active, and monitoring the active machine setup being used are just a few of the ways this attack can be contained.
 
 ---
 
