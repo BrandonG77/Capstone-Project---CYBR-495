@@ -53,6 +53,7 @@ Each incident response follows the same procedures:
 | 10 | [Post Exploitation](10-Post-Exploitation.md) | Post Exploitation | Critical |
 | 11 | [Credential Harvesting](11-Credential-Harvesting.md) | Credential Access | Critical |
 | 12 | [Insider Threat](12-Insider-Threat.md) | Insider Threat | Critical |
+| Other | [Zero Day Vulnerabilities](Zero-Day.md) | Varies | Varies |
 
 ---
 
