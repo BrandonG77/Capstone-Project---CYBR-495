@@ -4,6 +4,14 @@
 
 ## Detection Alert
 
+Based on the Detection Engineer's findings from Splunk and Wireshark, several indicators of compromise were present acknowledging that a ransomware attack was executed against user credentials.
+
+Indicators such as the use of a password cracking tool, ransonware file encryption, the creation of a ransom note, access to the file's dictionary, the creation of a hash file, multiple instances of users attempting to crack the password, and deployment of ransomware all indicate that a ransomware attack has occurred.
+
+---
+
+## Incident Ticket
+
 **Incident Overview**
 
 Incident ID: ######
@@ -84,15 +92,9 @@ Incident Type (Security, Reliability, Data, Performance, Third-Party, Human Erro
 
 ---
 
-## Incident Ticket
-
-...
-
----
-
 ## Investigation
 
-...
+Some of the steps included in the investigation process cover identifying initial access methods, such as RDP or a VPN, preserving evidence from memory dumps, disk images, and analyzing logs. Tools such as Magnet Axiom Cyber, Cyber Triage, Splunk, and Microsoft 365 Defender can all be used to accomodate these activities.
 
 ---
 
@@ -192,7 +194,7 @@ We apologize for any inconvenience this may have caused. You may contact [organi
 
 ## Containment
 
-...
+Some of the immediate containment steps for a ransomware attack include isolating the infected system from all network connections, disabling remote access to the device, resetting all credentials within the organization, enabling MFA for newly created passwords or accounts, and securing backups so they can't be encrypted by ransomware.
 
 ---
 
