@@ -79,3 +79,6 @@ index=xss_logs log_type="SECURITY"
 ## Key Takeaway
 
 XSS is one of the most common vulnerabilities on the web. If your website has any feature where users can type something and see it displayed back — a search bar, a comment section, a contact form — there is a chance it is vulnerable to XSS. A good web developer can fix this quickly, but left unchecked it can be used to steal user accounts and spread malicious content to your visitors.
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
