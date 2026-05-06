@@ -49,4 +49,4 @@ From the index.php file we can see there is a config file as well most probably 
 **Collection:**
   - T1185 - Browser Session Hijacking (potential)  
 
- 
+ [Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
