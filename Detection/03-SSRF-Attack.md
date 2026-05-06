@@ -79,3 +79,6 @@ index=your_logs log_type="CREDENTIAL_EXPOSURE" OR log_type="AUTH"
 ## Key Takeaway
 
 This attack required zero hacking skills to pull off. The attacker just pointed your own website at your own files and it handed them over. Any web application that fetches content from a user-supplied URL needs very strict controls on what URLs it is allowed to access.
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
