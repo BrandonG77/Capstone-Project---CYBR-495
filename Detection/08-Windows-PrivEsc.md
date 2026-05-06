@@ -98,3 +98,7 @@ OR tcp_srcport="3389" OR tcp_dstport="3389")
 ## Key Takeaway
 
 Windows privilege escalation attacks succeed because of small misconfigurations that individually seem harmless — a service with weak permissions here, a policy setting left on there. Attackers are methodical and will try every avenue until one works. Regular configuration audits and the principle of least privilege — giving users only the access they actually need — are the most effective defences against this class of attack.
+
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
