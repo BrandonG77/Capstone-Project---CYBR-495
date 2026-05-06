@@ -49,4 +49,5 @@ From the index.php file we can see there is a config file as well most probably 
 **Collection:**
   - T1185 - Browser Session Hijacking (potential)  
 
- [Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main) | [Next Attack --> XSS](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/XSS%20-%20Merry%20Christmas.md) | [Previous Attack --> OWASP Juice Shop](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/OWASP%20Juice%20Shop.md)
