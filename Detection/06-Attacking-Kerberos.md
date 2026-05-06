@@ -101,3 +101,7 @@ index=kerberos_logs ip_src="[attacker_ip]" OR ip_dst="[attacker_ip]"
 ## Key Takeaway
 
 This attack is particularly dangerous because it uses legitimate Windows features against you. The tools involved are not hacking exploits — they are just abusing the normal authentication system. This is why network-level monitoring is so important. If you cannot see what is happening on your domain controller, you cannot catch this kind of attack until it is too late.
+
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
