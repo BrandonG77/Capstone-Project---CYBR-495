@@ -89,3 +89,7 @@ than it absolutely needs.
 ## Key Takeaway
 
 This attack followed a completely predictable pattern — scan, find, exploit, escalate. Each step was only possible because of a specific misconfiguration: an exposed directory, an unrestricted file upload form, and an SUID binary that should not have had those permissions. Fixing any one of these would have stopped the attack at that stage. Regular security audits of your web server configuration go a long way toward preventing this kind of compromise.
+
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
