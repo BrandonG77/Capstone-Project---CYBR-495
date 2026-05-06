@@ -170,3 +170,7 @@ index=authentication
 Insider threats are the hardest attacks to detect and the most damaging when they succeed. Unlike external attackers, insiders do not trigger the usual alarms. The only way to catch them is through behavioural monitoring — understanding what normal looks like for each user and alerting when something does not fit that pattern.
 
 For a small business, the most practical first step is applying strict least privilege access. If employees can only access what they genuinely need, the damage any one person can do is significantly limited even if they go rogue. Regular access reviews, offline backups, and even basic database query monitoring can make the difference between a contained incident and a full data breach that costs hundreds of thousands of dollars in fines and remediation.
+
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
