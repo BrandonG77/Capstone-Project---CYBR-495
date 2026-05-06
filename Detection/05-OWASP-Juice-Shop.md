@@ -103,3 +103,7 @@ Two attack types could not be fully detected in this dataset:
 ## Key Takeaway
 
 41% of the traffic hitting this web application was malicious. For a small business with a public-facing website, this is a realistic threat level. Most of these attacks are automated — bots constantly scanning the internet looking for weak passwords and vulnerable login forms. The good news is that most of these attacks can be stopped with basic security hygiene: strong passwords, locked login pages, and properly configured servers.
+
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
