@@ -66,4 +66,5 @@ Using the GTFOBins technique for systemctl SUID abuse, I created a malicious ser
 | Privilege Escalation | T1548.001 | Abuse Elevation Control Mechanism: SUID/SGID |
 | Collection | T1005 | Data from Local System |
 
-[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main) | [Next Attack --> Windows PrivEsc](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/Windows%20PrivEsc.md) | [Previous Attack --> Attacking Kerberos](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/Attacking%20Kerberos.md)
