@@ -103,3 +103,7 @@ index=ransomware_logs
 ## Key Takeaway
 
 The most important takeaway from this attack is not about how to crack passwords — it is about backups. If you have a recent offline backup, ransomware is an inconvenience, not a catastrophe. If you do not have backups, you are left with three bad options: pay the ransom, lose your data, or hope someone can crack the encryption. Set up backups today.
+
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
