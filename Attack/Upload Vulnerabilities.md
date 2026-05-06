@@ -86,3 +86,4 @@ At magic.uploadvulns.thm the server validated file type by reading the first byt
 [Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)  | [Next: Upload Vulnerabilities Detection](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Detection/01-Upload-Vulnerabilities.md))  | [Next Attack --> Insider Threat](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/Insider%20Threat.md)  | [Previous Attack --> Windows PrivEsc](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/Windows%20PrivEsc.md)
 
  
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
