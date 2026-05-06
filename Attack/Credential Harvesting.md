@@ -75,4 +75,4 @@ I can use the hash to authenticate directly in to the domain control system and 
 
 
 
-[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main) | [Next Attack --> Post Exploitation Basics](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/Post%20Exploitation%20Basics.md) | [Previous Attack --> Passwords & Ransomware](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/Passwords%20-%20A%20cracking%20Christmas+%20Ransomware.md)
