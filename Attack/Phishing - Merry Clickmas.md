@@ -76,4 +76,6 @@ From the above screenshot you can also see the phishing email I sent to the user
 | Collection | T1213 | Data from Information Repositories |
 | Defense Evasion | T1036.005 | Masquerade: Match Legitimate Name or Location |
 
-[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main) | [Next Attack --> Passwords & Ransomware](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/Passwords%20-%20A%20cracking%20Christmas+%20Ransomware.md) | [Previous Attack --> XSS](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Attack/XSS%20-%20Merry%20Christmas.md)
