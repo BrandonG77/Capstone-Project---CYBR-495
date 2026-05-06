@@ -340,4 +340,4 @@ Future Steps Required: Continue monitoring Splunk network traffic, test all new 
 
 
 
-[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)  | [Next XSS Infrastructure](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Diagrams/XSS%20-%20Merry%20Christmas%20.drawio.png)  | [Previous Incident Response --> SSRF](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Incident%20Response/03-SSRF-Attack.md)   | [Next Incident Response --> Phishing](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Incident%20Response/02-Phishing-Merry-Clickmas.md)
