@@ -316,3 +316,7 @@ Likelihood of Reoccurrence: Limited due to incident response.
 Risk Response to Limit Reoccurrence: Implemented input validation/sanitization procedures, segmented server files, stronger authentication techniques, access control lists, reduced protocol availability, principle of least privilege. 
 
 Future Steps Required: Continued Splunk monitoring of network traffic, testing file access for future vulnerabilities, zero-trust policy in place to restrict access unless properly authenticated. 
+
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
