@@ -336,3 +336,8 @@ Likelihood of Reoccurrence: Limited due to incident response.
 Risk Response to Limit Reoccurrence: Testing security measures to confirm XSS isn't allowed, only allowing users to access certain webpages and input preset entries into forms when applicable. 
 
 Future Steps Required: Continue monitoring Splunk network traffic, test all new URL files and submission forms allowing open-ended input, educate staff and customers on identifying malicious activity within a website. 
+
+
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
