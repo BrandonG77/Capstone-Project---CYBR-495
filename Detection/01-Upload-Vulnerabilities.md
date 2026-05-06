@@ -89,3 +89,6 @@ index=your_logs | search http_request_method="GET"
 ## Key Takeaway
 
 File upload forms are one of the most dangerous features on any website. If you have one, make sure your web developer or hosting provider has implemented proper server-side validation. A simple misconfiguration here can give an attacker full control of your server.
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main) | [Next: Upload Vulnerabilities Incident Response](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Incident%20Response/01-Upload-Vulnerabilities.md)   | [Next Detection --> Insider Theat](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Detection/12-Insider-Threat.md)    | [Previous Detection --> Windows PrivEsc](https://github.com/BrandonG77/Capstone-Project---CYBR-495/blob/main/Detection/08-Windows-PrivEsc.md)
