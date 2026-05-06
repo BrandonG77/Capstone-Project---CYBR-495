@@ -103,3 +103,8 @@ index=attack_logs EventID=4624
 ## Key Takeaway
 
 Once an attacker has administrative access to a Windows machine, credential harvesting is almost inevitable — the credentials are there, and the tools to extract them are freely available. The only way to limit the damage is to detect it quickly and have strong monitoring on LSASS access and unusual authentication events. Every minute the attacker has those credentials, they can use them to spread further through your network.
+
+
+
+
+[Home Page](https://github.com/BrandonG77/Capstone-Project---CYBR-495/tree/main)
